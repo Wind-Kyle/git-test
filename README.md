@@ -11,3 +11,9 @@
 
 - Merge: 분리된 브랜치를 병합하고 싶은 경우
 > `git merge branch_name`
+
+- Pull: 변경된 사항을 저장소로부터 받아오고 싶은 경우
+> `git pull`
+
+- Push: 변경사항을 저장소에 적용하고 싶은 경우
+> `git push`
