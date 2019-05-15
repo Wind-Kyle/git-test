@@ -1,2 +1,6 @@
-# git-test
-My Git Test
+# My First Git Test
+
+- Add
+- Commit
+- Branch
+- Merge
